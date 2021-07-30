@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hola, mi nombre es Milena 😎👋
+<p align = "center"> <img src="https://media.giphy.com/media/oy83DwqHRcR1jJczV3/giphy.gif"></p> 
+
+💥 Desde que inicie mi camino como Desarrolladora Frontend 💻 he adquirido el dominio de tecnologías como React, JavaScript y CSS ⚡ aplicando junto a ellas mis conocimientos previos en Diseño. 🌈Me apasiona la creatividad, innovación y el autoaprendizaje 💥 
 
 <!--
 **SMilenaGranados/SMilenaGranados** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
