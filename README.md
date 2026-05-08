@@ -1,6 +1,8 @@
 ### ¡Hola! soy Milena 😎👋
 <p align = "center"> <img src="https://media.giphy.com/media/oy83DwqHRcR1jJczV3/giphy.gif" width="250px"></p> 
-💥 Como Desarrolladora Frontend 💻 he adquirido el dominio de tecnologías como React, JavaScript y CSS ⚡ aplicando junto a ellas mis conocimientos previos en Diseño 🌈 Me apasiona la creatividad, innovación y el autoaprendizaje 💥
+💥 Frontend Software Engineer con más de 4 años de experiencia construyendo aplicaciones web escalables y de alto rendimiento utilizando React, JavaScript y TypeScript.
+Cuento con experiencia en arquitecturas basadas en microfrontends, testing automatizado, flujos de integración y despliegue continuo, optimización de performance y prácticas modernas de desarrollo frontend.
+Gran parte de mi experiencia profesional ha sido desarrollada en entornos empresariales con repositorios privados, por lo que no está disponible públicamente aquí. En este perfil comparto proyectos personales, experimentos y aprendizaje continuo enfocados en arquitectura frontend, herramientas de desarrollo e inteligencia artificial aplicada al desarrollo. 💥
  
 
 <!--
